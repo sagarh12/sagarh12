@@ -34,6 +34,9 @@ Open to Summer 2026 / Fall co-op opportunities.
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | **[lifeOS](https://github.com/sagarh12/lifeOS)** | Full-stack life-tracking app — habits, goals, fitness & an AI nutrition coach, with groups & leaderboards. | Next.js · Firebase · TypeScript · Vitest |
+| **[kanban](https://github.com/sagarh12/kanban)** | Full-stack Kanban board with drag-and-drop, JWT auth, and an AI assistant. | Next.js · FastAPI · OpenAI |
+| **[YorkU Parking System](https://github.com/sagarh12/yorku-parking-system)** | Java desktop app — MVC architecture + 6 design patterns + Swing GUI. | Java · Swing |
+| **[Stock Market Predictor](https://github.com/sagarh12/stock-market-predictor)** | LSTM model predicting next-day closing prices, with honest evaluation. | Python · TensorFlow |
 | **[prelegal](https://github.com/sagarh12/prelegal)** | Generate common legal documents from guided templates and export to PDF. | Next.js · React · jsPDF |
 | **[Portfolio](https://github.com/sagarh12/sagarhooda-portfolio)** | 3D, terminal-aesthetic portfolio site. | Next.js · React Three Fiber · GSAP |
 
